@@ -1,5 +1,5 @@
 <?php
-     define("siteName", "http://localhost:80/php_pro/docs.php");
+     define("siteName", "http://localhost:80/php_pro/pp.php");
      echo siteName . "" . "<br>";
      //number 1
      
