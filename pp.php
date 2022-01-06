@@ -1,5 +1,8 @@
 <?php
+     define("siteName", "http://localhost:80/php_pro/docs.php");
+     echo siteName . "" . "<br>";
      //number 1
+     
    echo nl2br("alaa \n khaled \r\n mohamed ");
       echo "<br>********************";
 
